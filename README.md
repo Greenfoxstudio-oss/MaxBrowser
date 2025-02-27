@@ -22,3 +22,6 @@ How to install MaxBrowser?
 Note: If it writes "app is not installed" Try to Clean your Memory on phone or turn off Google play protection.
 
 required android versions: 5.0 and higher
+
+## About the Developer
+This project is developed by Greenfoxstudio-oss, located in Zakarpattia, Ukraine.
